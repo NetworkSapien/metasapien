@@ -1,2 +1,2 @@
-# metasapien
-MetaSapien = TransHuman + NetworkState + Web3
+# ultrasapien
+UltraSapien = TransHuman + NetworkState + Web3
